@@ -1,6 +1,6 @@
 # machine_learning_notebooks
 
-This is to documnets a list of things that i have tried using Machine Learning
+This is a list of things that i have tried using Machine Learning.
 
 ## Bert_Next_Sentence_for_breaking_up_paragraphs_and_summarizing_.ipynb
 Testing using BertNext Sentence to detect different segments in a news/speech where the text changed the theme and we run a summariser on each segment so produce a summarised version of the original text
