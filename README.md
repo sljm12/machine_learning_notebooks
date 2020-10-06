@@ -8,4 +8,4 @@ Testing using BertNext Sentence to detect different segments in a news/speech wh
 ## Clustering_Articles_using_SNA_and_NER.ipynb
 Trying out using NER and SNA to do clustering of news articles using modularity functions
 
-## [blob/master/Newsheadlines_Simple_Transformers.ipynb]
+## [Newsheadlines_Simple_Transformers.ipynb] (Newsheadlines_Simple_Transformers.ipynb)
