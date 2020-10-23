@@ -13,5 +13,7 @@ Trying out using NER and SNA to do clustering of news articles using modularity 
 Trying out Simple Transformers on a news classification data set from kaggle
 
 # 2020 US Election
-## LSTM_Trump_Biden_Kamala_Classifier_.ipynb -  Using LSTM to train and predict whose "speech" it belongs to
-## Dense_USE_Embedding_Trump_Biden_Kamala_Classifier_.ipynb - Trying out if using Dense Layers can work well -> It doesn't
+## LSTM_Trump_Biden_Kamala_Classifier_.ipynb 
+Using LSTM to train and predict whose "speech" it belongs to
+## Dense_USE_Embedding_Trump_Biden_Kamala_Classifier_.ipynb 
+Trying out if using Dense Layers can work well -> It doesn't
