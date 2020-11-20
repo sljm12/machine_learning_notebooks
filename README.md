@@ -12,6 +12,9 @@ Trying out using NER and SNA to do clustering of news articles using modularity 
 ## Newsheadlines_Simple_Transformers.ipynb 
 Trying out Simple Transformers on a news classification data set from kaggle
 
+## Zeroshot learning using BART and HuggingFace.ipynb
+Trying out Zeroshot classification with IPTC Media Topics and BART
+
 # 2020 US Election
 ## LSTM_Trump_Biden_Kamala_Classifier_.ipynb 
 Using LSTM to train and predict whose "speech" it belongs to
